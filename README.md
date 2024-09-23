@@ -1,5 +1,3 @@
-¡Claro, con mucho gusto! Aquí tienes una sugerencia para mejorar el archivo README.md de tu repositorio:
-
 # ¡Bienvenido al Proyecto de Control de Gastos! 💰
 
 ¿Cansado de perder el control de tus finanzas? 🤯 ¡Este es el lugar perfecto para ti! 🙌
